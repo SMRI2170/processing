@@ -1,2 +1,2 @@
-# -processing
+# processing
 プログラム・コンピュータによる計算
